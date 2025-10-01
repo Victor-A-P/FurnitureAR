@@ -1,0 +1,158 @@
+{
+  "fill" : "automatic",
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "glass" : false,
+          "hidden" : false,
+          "image-name" : "Vector 6.png",
+          "name" : "Vector 6",
+          "opacity" : 1,
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              17.046875,
+              -555.2265625
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    },
+    {
+      "layers" : [
+        {
+          "glass-specializations" : [
+            {
+              "value" : false
+            },
+            {
+              "appearance" : "dark",
+              "value" : true
+            }
+          ],
+          "hidden" : false,
+          "image-name" : "Polygon 1.png",
+          "name" : "Polygon 1",
+          "opacity-specializations" : [
+            {
+              "value" : 0
+            },
+            {
+              "appearance" : "dark",
+              "value" : 0.5
+            }
+          ],
+          "position" : {
+            "scale" : 1.5,
+            "translation-in-points" : [
+              13.9921875,
+              100.0546875
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    },
+    {
+      "layers" : [
+        {
+          "image-name" : "Vector 5.png",
+          "name" : "Vector 5",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              -307.5546875,
+              -0.5859375
+            ]
+          }
+        },
+        {
+          "image-name" : "Vector 4 2.png",
+          "name" : "Vector 4 2",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              436.8046875,
+              279.6328125
+            ]
+          }
+        },
+        {
+          "image-name" : "Rectangle 5.png",
+          "name" : "Rectangle 5",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              23.3203125,
+              -181.765625
+            ]
+          }
+        },
+        {
+          "image-name" : "Rectangle 4.png",
+          "name" : "Rectangle 4",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              23.9375,
+              -183.4453125
+            ]
+          }
+        },
+        {
+          "image-name" : "Rectangle 3.png",
+          "name" : "Rectangle 3",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              -216.4140625,
+              321.8671875
+            ]
+          }
+        },
+        {
+          "glass" : false,
+          "image-name" : "Rectangle 6.png",
+          "name" : "Rectangle 6",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              86.5625,
+              489.625
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}

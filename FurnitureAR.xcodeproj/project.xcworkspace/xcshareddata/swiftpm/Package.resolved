@@ -1,0 +1,15 @@
+{
+  "originHash" : "27e40ebb9147b316fa2a1c3896366509d4abf8eee5d8193c710501cb1857705e",
+  "pins" : [
+    {
+      "identity" : "focusentity",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maxxfrazer/FocusEntity",
+      "state" : {
+        "revision" : "3e08b26f863957113f4d0b2d45cf6dfbd1a41333",
+        "version" : "2.5.2"
+      }
+    }
+  ],
+  "version" : 3
+}
