@@ -1,0 +1,4 @@
+# Xcode - archivos de estado por usuario
+*.xcuserstate
+xcuserdata/
+
