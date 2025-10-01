@@ -46,6 +46,7 @@
 		57C904D42E84D1C300BDB73A /* BrowseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57C904D32E84D1C300BDB73A /* BrowseView.swift */; };
 		57C904D62E84E06300BDB73A /* HorizontalGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57C904D52E84E06300BDB73A /* HorizontalGrid.swift */; };
 		57C904D82E85077700BDB73A /* ModelsByCategoryGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57C904D72E85077700BDB73A /* ModelsByCategoryGrid.swift */; };
+		57FE46AF2E8D14060037D76B /* FurnitureAR.docc in Sources */ = {isa = PBXBuildFile; fileRef = 57FE46AE2E8D14060037D76B /* FurnitureAR.docc */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -89,6 +90,7 @@
 		57C904D32E84D1C300BDB73A /* BrowseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrowseView.swift; sourceTree = "<group>"; };
 		57C904D52E84E06300BDB73A /* HorizontalGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizontalGrid.swift; sourceTree = "<group>"; };
 		57C904D72E85077700BDB73A /* ModelsByCategoryGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelsByCategoryGrid.swift; sourceTree = "<group>"; };
+		57FE46AE2E8D14060037D76B /* FurnitureAR.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = FurnitureAR.docc; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,7 +160,6 @@
 		576B28882E834D8800E6BD0E /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				577DAD592E8B7D3600347206 /* New Group */,
 				57AFF6E62E825D81005C45B1 /* ARViewContainer.swift */,
 				576B28892E834FC500E6BD0E /* Model.swift */,
 				57C904CB2E84B1F300BDB73A /* categoryMb.swift */,
@@ -174,17 +175,11 @@
 			path = Model;
 			sourceTree = "<group>";
 		};
-		577DAD592E8B7D3600347206 /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Group";
-			sourceTree = "<group>";
-		};
 		57947E372E81E78B00048EE7 = {
 			isa = PBXGroup;
 			children = (
 				57AFF6E22E825B05005C45B1 /* FurnitureAR */,
+				57FE46AE2E8D14060037D76B /* FurnitureAR.docc */,
 				57947E412E81E78B00048EE7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -325,6 +320,7 @@
 				57AFF6E42E825B05005C45B1 /* FurnitureARApp.swift in Sources */,
 				57AFF6E72E825D81005C45B1 /* ARViewContainer.swift in Sources */,
 				57C904D62E84E06300BDB73A /* HorizontalGrid.swift in Sources */,
+				57FE46AF2E8D14060037D76B /* FurnitureAR.docc in Sources */,
 				577DAD5D2E8B80AD00347206 /* ARStatusView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
